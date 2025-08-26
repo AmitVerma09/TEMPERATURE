@@ -1,0 +1,41 @@
+.container{
+    height: 400px;
+    width: 600px;
+    border: 2px solid black;
+    margin: 0 auto;
+    margin-top: 70px;
+}
+.container{
+    box-shadow: 0 0 40px black;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    margin-top: 30px;
+}
+input, select {
+  width: 250px;   
+  height: 40px;   
+  font-size: 16px;  
+  padding: 5px;
+  margin-left: 20px;  
+  margin-top: 20px;   
+}
+.Result{
+    margin-left: 175px;
+}
+.btn{
+    margin-top: 20px;
+    margin-left: 40%;
+    height: 50px;
+    width: 150px;
+    font-size: 16px; 
+    color: white;
+    background-color: rgb(22, 156, 209);
+    border-radius: 30px;
+}
+.btn:hover{
+    color: black;
+    background-color: white;
+}
+
